@@ -1,7 +1,7 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                 <div class="box-footer info-contact">
                     <h3>Thông tin liên hệ</h3>
                     <div class="content-contact">
@@ -18,23 +18,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                <div class="box-footer info-contact">
-                    <h3>Thông tin khác</h3>
-                    <div class="content-list">
-                    <?php wp_nav_menu( 
-                        array( 
-                            'theme_location' => 'footer-menu', 
-                            'container' => 'false', 
-                            'menu_id' => 'footer-menu', 
-                            'menu_class' => 'footer-menu'
-                        ) 
-                        ); ?>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                 <div class="box-footer info-contact">
                     <h3>Form liên hệ</h3>
                     <div class="content-contact">
