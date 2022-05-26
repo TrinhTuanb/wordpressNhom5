@@ -13,12 +13,12 @@
 //     }
 //     add_action( 'wp_enqueue_scripts', 'my_styles' );
     
-function my_custom_wc_theme_support () {
-    add_theme_support ('woocommerce');
-    add_theme_support ('wc-product-gallery-lightbox');
-    add_theme_support ('wc-product-gallery-slider');
-}
-add_action ('after_setup_theme', 'my_custom_wc_theme_support');
+// function my_custom_wc_theme_support () {
+//     add_theme_support ('woocommerce');
+//     add_theme_support ('wc-product-gallery-lightbox');
+//     add_theme_support ('wc-product-gallery-slider');
+// }
+// add_action ('after_setup_theme', 'my_custom_wc_theme_support');
 
 function initMyTheme() {
     // đăng kí menu

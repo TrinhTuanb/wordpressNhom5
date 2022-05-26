@@ -648,11 +648,18 @@ function themeslug_enqueue_style() {
  
 // add_action( 'wp_enqueue_scripts', 'themeslug_enqueue_style' );
 // add_action( 'wp_enqueue_scripts', 'themeslug_enqueue_script' );
-function nhom5_style(){
-	wp_register_style( 'main-style', get_template_directory_uri() . "/styles.css");
-	wp_enqueue_style('main-style');
-	wp_register_script( 'main-javascript', get_template_directory_uri() . "/javascript.js");
-	wp_enqueue_script('main-javascript');
-	
-}
+
 add_action('wp_enqueue_scripts', 'nhom5_style');
+
+add_filter( "the_content_feed", "plugin_function_name" );
+ 
+/**
+* @param  $content Content of post
+* @return string
+*/
+function plugin_function_name($content)
+{
+   $content .= '<p>Total of '.str_word_count($content).' words.</p>';
+   return $content;
+}
+

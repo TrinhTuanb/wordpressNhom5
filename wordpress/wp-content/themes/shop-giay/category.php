@@ -9,6 +9,7 @@
         <div class="row">
             <div class="col-lg-9">
                 <h1 class="cat-title"><?php single_cat_title(); ?></h1>
+                <br>
                 <?php if (have_posts()) : ?>
                     <?php while (have_posts()) : the_post(); ?>
                         <div class="list-new">

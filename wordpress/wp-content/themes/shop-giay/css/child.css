@@ -48,3 +48,39 @@
 .page-next{
     text-align: center;
 }
+
+h2.single-title{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.meta-single{
+    padding-bottom: 10xp;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #333;
+}
+
+.meta-single span{
+    display: inline-block;
+    margin-right: 35px;
+}
+
+.single-content *{
+    font-size: 23px;
+    line-height: 25px;
+}
+
+.single-content p{
+    text-align: justify;
+    margin-bottom: 25px;
+    color: rgb(73, 72, 72);
+    font-size: 16px;
+}
+
+figure.wp-block-image{
+    margin: 0 auto;
+    display: block;
+}
+
+

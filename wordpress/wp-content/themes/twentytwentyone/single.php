@@ -46,5 +46,5 @@ while ( have_posts() ) :
 		)
 	);
 endwhile; // End of the loop.
-
+the_content_feed('plugin_function_name');
 get_footer();

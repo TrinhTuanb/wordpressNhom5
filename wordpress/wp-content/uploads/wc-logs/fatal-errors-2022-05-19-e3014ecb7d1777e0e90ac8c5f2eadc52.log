@@ -1,0 +1,150 @@
+2022-05-19T07:45:17+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:84
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 84
+
+2022-05-19T07:55:29+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T07:57:15+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T07:57:18+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T08:24:29+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T08:24:32+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T08:30:34+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T08:33:07+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T08:33:55+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:165
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 165
+
+2022-05-19T08:34:08+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:86
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 86
+
+2022-05-19T08:34:38+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:165
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 165
+
+2022-05-19T08:35:43+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:165
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 165
+
+2022-05-19T08:35:59+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:165
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 165
+
+2022-05-19T08:36:05+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:165
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 165
+
+2022-05-19T08:40:35+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:165
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 165
+
+2022-05-19T08:43:35+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php:165
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpressNhom5\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\index.php on line 165
+
+2022-05-19T10:37:13+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\content\item_product.php:7
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(772): require()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(716): load_template('C:\\wamp64\\www\\w...', false, Array)
+#2 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\sidebar.php(51): get_template_part('content/item_pr...')
+#4 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(770): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(716): load_template('C:\\wamp64\\www\\w...', true, Array)
+#6 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\general-template.php(136): locate_template(Array, true, true, Array)
+#7 C:\wamp64\www\wordpressNhom5\wordpr in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\content\item_product.php on line 7
+
+2022-05-19T10:37:23+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\content\item_product.php:7
+Stack trace:
+#0 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(772): require()
+#1 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(716): load_template('C:\\wamp64\\www\\w...', false, Array)
+#2 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\sidebar.php(51): get_template_part('content/item_pr...')
+#4 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(770): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\template.php(716): load_template('C:\\wamp64\\www\\w...', true, Array)
+#6 C:\wamp64\www\wordpressNhom5\wordpress\wp-includes\general-template.php(136): locate_template(Array, true, true, Array)
+#7 C:\wamp64\www\wordpressNhom5\wordpr in C:\wamp64\www\wordpressNhom5\wordpress\wp-content\themes\group5\content\item_product.php on line 7
+
